@@ -1,0 +1,11 @@
+D:\Study\C#\GraphicsAlgorithm\GraphicsAlgorithm\bin\Debug\GraphicsAlgorithm.exe.config
+D:\Study\C#\GraphicsAlgorithm\GraphicsAlgorithm\bin\Debug\GraphicsAlgorithm.exe
+D:\Study\C#\GraphicsAlgorithm\GraphicsAlgorithm\bin\Debug\GraphicsAlgorithm.pdb
+D:\Study\C#\GraphicsAlgorithm\GraphicsAlgorithm\obj\Debug\GraphicsAlgorithm.csproj.AssemblyReference.cache
+D:\Study\C#\GraphicsAlgorithm\GraphicsAlgorithm\obj\Debug\GraphicsAlgorithm.csproj.SuggestedBindingRedirects.cache
+D:\Study\C#\GraphicsAlgorithm\GraphicsAlgorithm\obj\Debug\GraphicsAlgorithm.Form1.resources
+D:\Study\C#\GraphicsAlgorithm\GraphicsAlgorithm\obj\Debug\GraphicsAlgorithm.Properties.Resources.resources
+D:\Study\C#\GraphicsAlgorithm\GraphicsAlgorithm\obj\Debug\GraphicsAlgorithm.csproj.GenerateResource.cache
+D:\Study\C#\GraphicsAlgorithm\GraphicsAlgorithm\obj\Debug\GraphicsAlgorithm.csproj.CoreCompileInputs.cache
+D:\Study\C#\GraphicsAlgorithm\GraphicsAlgorithm\obj\Debug\GraphicsAlgorithm.exe
+D:\Study\C#\GraphicsAlgorithm\GraphicsAlgorithm\obj\Debug\GraphicsAlgorithm.pdb
